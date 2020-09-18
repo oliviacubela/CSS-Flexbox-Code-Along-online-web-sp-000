@@ -17,6 +17,7 @@ main {
   height: 100%;
   flex-flow: column;
   align-items: center;
+  align-content: center;
 }
 
 footer {
