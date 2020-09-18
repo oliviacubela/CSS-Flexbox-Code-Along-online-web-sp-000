@@ -17,7 +17,7 @@ main {
   height: 100%;
   flex-flow: wrap;
   align-items: center;
-  /*align-content: center;*/
+  align-content: center;
 }
 
 footer {
@@ -39,7 +39,7 @@ footer {
   background-color: #FCF2EC;
 }
 
-/*.setWidth {
+.setWidth {
   flex-basis: 100px;
   flex-grow: 1;
-}*/
+}
